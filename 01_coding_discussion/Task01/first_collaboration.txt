@@ -1,0 +1,3 @@
+Marissa Joy
+a. I decided to study Data Science for Public Policy because I want to work towards creating change with the technical skills I have and privileges I've had throughout life. Specifically, I want to learn statistical and modeling techniques through a social science lens.
+b. This week, I learned you can use git commands within Jupyter Notebook 
