@@ -14,7 +14,7 @@ For this discussion, please do the following:
 	b. I learned...
 	```
 
-	2. Create a Jupyter Notebook in the `Task02/` folder. Retitle the notebook with your lastname_firstname_netid (`doe_john_jd568.ipynb`). In a code chunk, load and run the code located in `script01.py`. In a different code chunk, load and run the code located in `script02.py`. In seperate code chunks, compare the run times of the two functions contained within each file (there is only one function per script). Note that the code to run when timing the function has been provided in the script. Finally, in a markdown chunk write up which function appears to ran faster.
+	2. Create a Jupyter Notebook in the `Task02/` folder. Retitle the notebook with your lastname_firstname_netid (`doe_john_jd568.ipynb`). In a code chunk, load and run the code located in `script01.py`. In a different code chunk, load and run the code located in `script02.py`. In seperate code chunks, compare the run times of the two functions contained within each file (there is only one function per script). Note that the code to run when timing the function has been provided in the script. Finally, in a markdown chunk write up which function appears to run faster.
 
 ## Response
 
