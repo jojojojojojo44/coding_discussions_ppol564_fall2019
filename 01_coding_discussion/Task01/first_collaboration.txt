@@ -7,3 +7,6 @@ b. I learned magic commands.
 Bingrui Li
 a. I decided to come to a public policy school because I am interested in policy making process and I believe data science can be a good tool to make policy decisions more logical.
 b. I learned endogenous.
+Adam Hearn
+a. With an economics background, I was always fascinated with the "data" component of research: where the data came from, how it was collected/merged, etc. I am a big proponent of data transparency as well. I want to be able to apply the skills I learn in this DSPP program to more accurately create models to influence policymaking, especially in the higher-education policy sector.
+b. I had always heard of Git-hub from some CS friends, but never understood what it was or how it works. Now I know!
