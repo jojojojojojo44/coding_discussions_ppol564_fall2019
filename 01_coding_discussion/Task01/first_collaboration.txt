@@ -4,3 +4,6 @@ b. This week, I learned you can use git commands within Jupyter Notebook
 Zhenyun Guo
 a. I decided to come to a public policy school because having studied political science in college I was curious about how theories could be applied into practices. I also felt that quantitative skills taught in public policy schools are useful both for careers and further studies.
 b. I learned magic commands.
+Digvijay Ghotane
+a. I decided to come to a public policy school because I want to help people. I think areas of health, economy and strategic policy interest me.
+b. In class this week, I learned about Jupyter Notebook, more specifically their support for HTML text and markdown which was not available in VSCode out of the box.
