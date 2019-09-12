@@ -18,3 +18,8 @@ b. This week, basically everything was new! I had also heard of github but had n
 Allen Church
 a. I decided to attend the McCourt School for the DSPP program as it fit with my academic interest in policy and professional interest in data science. I am interested in learning how to leverage open data initiatives at the local level to improve service delivery to under-represented constituents.
 b. I learned magic! I did not know Jupyter Notebook had so many helpful shortcuts.
+
+yuanfeng hu
+a, I decided to pursue a master degree in data science because I am very interested in the data science industry. I also would like to learn something that is not purely technical so the public policy aspect of this program also fits my interest.
+b, I have never heard of the magic commend such as !, % ,%% in Jupiter Notebook. This is super helpful and would certainly increase my productivity
+c, Allen Church: A ha, we kind of have similar interest in the data science program and I hope we could work together throughout the duration of the program. I was previously pretty used to the jupyter notebook, but I was as surprised as you about learning the new magic command.
