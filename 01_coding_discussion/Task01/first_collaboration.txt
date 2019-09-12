@@ -6,17 +6,19 @@ c. Bingrui Li: Our reasons for coming are very similar! I have some of the data 
 Zhenyun Guo
 a. I decided to come to a public policy school because having studied political science in college I was curious about how theories could be applied into practices. I also felt that quantitative skills taught in public policy schools are useful both for careers and further studies.
 b. I learned magic commands.
-<<<<<<< HEAD
+
 Digvijay Ghotane
 a. I decided to come to a public policy school because I want to help people. I think areas of health, economy and strategic policy interest me.
 b. In class this week, I learned about Jupyter Notebook, more specifically their support for HTML text and markdown which was not available in VSCode out of the box.
-=======
+
 Bingrui Li
 a. I decided to come to a public policy school because I am interested in policy making process and I believe data science can be a good tool to make policy decisions more logical.
 b. I learned endogenous.
+
 Adam Hearn
 a. With an economics background, I was always fascinated with the "data" component of research: where the data came from, how it was collected/merged, etc. I am a big proponent of data transparency as well. I want to be able to apply the skills I learn in this DSPP program to more accurately create models to influence policymaking, especially in the higher-education policy sector.
 b. I had always heard of Git-hub from some CS friends, but never understood what it was or how it works. Now I know!
+Digvijay Ghotane: I agree on the subject of data transparency with you! It is so necessary especially with scandals related to Cambridge Analytica and their involvement in the Trump2016 campaign along with the Leave EU campaign. Git is something that even I took a while to understand and don't completely understand even now after using it for a bit, I guess we're all on the same page in those terms!
 
 Valarie Bryant
 a. I chose to come to McCourt specifically for the data science program. I am particularly interested in working with conflict event data.
@@ -34,4 +36,3 @@ c, Allen Church: A ha, we kind of have similar interest in the data science prog
 Eric LaRose
 a. I decided to come to a public policy school because I am passionate about using evidence-based policy to make tangible improvements in individuals' lives. Because I come from a pretty strong background in math and economic research, I thought a joint data science-policy program such as the DSPP was a better match for my interests than a traditional MPP. I chose McCourt specifically because of its interdisciplinary approach (compared to, say, UChicago's more econ-centric approach) and its location close to so many great policy organizations. My main public policy interests are urban policy, transportation policy, and spatial/geographic inequality.
 b. I learned how to use Git/GitHub, and more on how to interact with the command line.
->>>>>>> fbc76d4c995bac3ef8d55410ab895cda22670f7c
