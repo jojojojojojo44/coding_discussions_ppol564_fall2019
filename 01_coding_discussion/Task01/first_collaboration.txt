@@ -14,3 +14,7 @@ b. I had always heard of Git-hub from some CS friends, but never understood what
 Valarie Bryant
 a. I chose to come to McCourt specifically for the data science program. I am particularly interested in working with conflict event data.
 b. This week, basically everything was new! I had also heard of github but had never used it before.
+
+Allen Church
+a. I decided to attend the McCourt School for the DSPP program as it fit with my academic interest in policy and professional interest in data science. I am interested in learning how to leverage open data initiatives at the local level to improve service delivery to under-represented constituents.
+b. I learned magic! I did not know Jupyter Notebook had so many helpful shortcuts.
