@@ -18,7 +18,7 @@ b. I learned endogenous.
 Adam Hearn
 a. With an economics background, I was always fascinated with the "data" component of research: where the data came from, how it was collected/merged, etc. I am a big proponent of data transparency as well. I want to be able to apply the skills I learn in this DSPP program to more accurately create models to influence policymaking, especially in the higher-education policy sector.
 b. I had always heard of Git-hub from some CS friends, but never understood what it was or how it works. Now I know!
-Digvijay Ghotane: I agree on the subject of data transparency with you! It is so necessary especially with scandals related to Cambridge Analytica and their involvement in the Trump2016 campaign along with the Leave EU campaign. Git is something that even I took a while to understand and don't completely understand even now after using it for a bit, I guess we're all on the same page in those terms!
+c. Digvijay Ghotane: I agree on the subject of data transparency with you! It is so necessary especially with scandals related to Cambridge Analytica and their involvement in the Trump2016 campaign along with the Leave EU campaign. Git is something that even I took a while to understand and don't completely understand even now after using it for a bit, I guess we're all on the same page in those terms!
 
 Valarie Bryant
 a. I chose to come to McCourt specifically for the data science program. I am particularly interested in working with conflict event data.
